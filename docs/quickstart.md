@@ -1,4 +1,7 @@
-# Quickstart Guide
+---
+layout: default
+title: Quickstart Guide
+---
 
 Get started with the Architect project in a few simple steps.
 

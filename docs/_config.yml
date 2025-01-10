@@ -1,0 +1,6 @@
+title: Architect Documentation
+description: Modular agents, plugins, and orchestrators by Coding Butter LLC
+theme: jekyll-theme-cayman # Change theme if desired
+baseurl: "/architect" # Ensure this matches your repo name
+url: "https://codingbutter.github.io" # Your GitHub Pages domain
+markdown: kramdown

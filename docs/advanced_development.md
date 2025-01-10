@@ -1,4 +1,7 @@
-# Advanced Development
+---
+layout: default
+title: System Architecture
+---
 
 ## Custom Agents
 

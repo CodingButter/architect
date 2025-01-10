@@ -1,4 +1,7 @@
-# Plugin System
+---
+layout: default
+title: Plugin System
+---
 
 Plugins extend the functionality of agents, providing reusable logic and tools.
 

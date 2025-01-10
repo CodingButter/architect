@@ -1,4 +1,7 @@
-# System Architecture
+---
+layout: default
+title: System Architecture
+---
 
 The system architecture defines the interaction between core components such as the frontend, backend, orchestrator, agents, and plugins.
 

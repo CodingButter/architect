@@ -1,4 +1,7 @@
-# Agent Workflow
+---
+layout: default
+title: Agent Workflow
+---
 
 Agents process tasks passed by the orchestrator, using tools and plugins as needed.
 
